@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "networkteam.neos-fusion",
+        "redhat.vscode-yaml",
+        "editorconfig.editorconfig"
+    ]
+}

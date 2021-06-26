@@ -1,0 +1,8 @@
+{
+    "emmet.includeLanguages": {
+        "fusion": "html"
+    },
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/Sebobo/Shel.Neos.Schema/main/NodeTypes.Schema.json": "DistributionPackages/*/Configuration/NodeTypes*.yaml"
+    }
+}
